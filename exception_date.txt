@@ -1,2 +1,2 @@
-# exception list
+# ekiss login exception list
 # 2019/06/27 checkin checkout
