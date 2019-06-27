@@ -1,7 +1,7 @@
 # exception list
 # 2019/06/27 checkin checkout
 2019/06/26 checkin
-2019/06/27 checkout
+2019/06/27 checkin checkout
 2019/06/28 checkin checkout
 2019/06/29
 2019/06/30 
