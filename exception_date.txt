@@ -1,3 +1,10 @@
 # ekiss login exception list
-# 2019/06/27 checkin checkout
+# format 
+# yyyy/mm/dd [checkin [11|13]] [checkout] 
+# 2019/07/04 checkin checkout   # checkin ON, checkout ON
+# 2019/07/04 checkin            # checkin ON, checkout OFF
+# 2019/07/05 checkout           # checkin OFF, checkout ON
+# 2019/07/05                    # checkin OFF, checkout OFF
+# 2019/07/06 checkin 11         # checkin ON at 11:00 (10:40~10:55)
+# 2019/07/06 checkin 13         # checkin ON at 13:00 (12:40~12:55)
 2019/06/27 checkin checkout
