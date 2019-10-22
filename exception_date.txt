@@ -5,6 +5,6 @@
 # 2019/07/04 checkin            # checkin ON, checkout OFF
 # 2019/07/05 checkout           # checkin OFF, checkout ON
 # 2019/07/05                    # checkin OFF, checkout OFF
-# 2019/07/06 checkin 11         # checkin ON at 11:00 (10:40~10:55)
-# 2019/07/06 checkin 13         # checkin ON at 13:00 (12:40~12:55)
-2019/10/09 
+# 2019/07/06 checkin 11         # checkin ON at 11:00 (10:40~10:55)  -morning off
+# 2019/07/06 checkin 13         # checkin ON at 13:00 (12:40~12:55) - morning off
+# 2019/10/22 checkout 12        # checkout at 12:00 (12:00~12:15) - afternoon off
