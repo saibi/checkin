@@ -9,4 +9,5 @@
 # 2019/07/06 checkin 13         # checkin ON at 13:00 (12:40~12:55) - morning off
 # 2019/10/22 checkout 12        # checkout ON at 12:00 (12:00~12:15) - afternoon off
 # 2019/10/22 checkout last      # checkout ON at 22:00 (22:00~23:59) - last chance
-2020/03/12
+2020/04/15
+
